@@ -1,1 +1,1 @@
-
+to run this code first need to download [pre-trained model](https://drive.google.com/file/d/1lvMPIhaXpn07eqi0qgfJfVrEA2_7gbyb/view?usp=sharing) and put it in this [directory](./gaze_tracking/trained_models) and  download [model weights, config and classes_name](https://drive.google.com/drive/folders/1oT8ciXf4fcG7ARdUfigwBlqmBmyjjmoE?usp=sharing) and put it in this [yolo v3 directory](./yolo%20v3) the run `ALL IN.py`
