@@ -1,1 +1,1 @@
-
+to run this code first need to download [pre-trained model](https://drive.google.com/file/d/1lvMPIhaXpn07eqi0qgfJfVrEA2_7gbyb/view?usp=sharing) and put it in this [directory](./gaze_tracking/trained_models) and run example.py
