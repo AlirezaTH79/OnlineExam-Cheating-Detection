@@ -9,3 +9,4 @@ this repo consist of all ways to detect cheating in online exam like
 - **`Intrinsic-Plagiarism-Detection`** for detect style of answer
 - **`Object-Detection`** for detect objects like mobile, book or another person
 - **`Similarity-Detection`** for detect similarity between participants answers
+- **`Vision-Based`** for all vision based like eye gaze, head pose and object detection together
